@@ -3,7 +3,7 @@ The objective of this research is to create a layout generator system that focus
 
 ![Fix Layout Flow](https://github.com/syahdeee/Layout-Generator/assets/100667458/6fead121-acbb-4c56-987d-691060520403)
 
-The input is a layout graph that represents the required components and relationships between components. We implemented the existing methods in the previous research to generate natural scenes [2 Transformer-Based Image Generation From Scene Graphs.pdf](https://github.com/user-attachments/files/15544906/2.Transformer-Based.Image.Generation.From.Scene.Graphs.pdf). Then, the placement of components in the layout will be generated. Here we list some generated layouts using SGTransformer model.
+The input is a layout graph that represents the required components and relationships between components. We implemented the existing methods in the previous research to generate natural scenes [Transformer-Based Image Generation From Scene Graphs.pdf](https://github.com/user-attachments/files/15544906/2.Transformer-Based.Image.Generation.From.Scene.Graphs.pdf). Then, the placement of components in the layout will be generated. Here we list some generated layouts using SGTransformer model.
 
 | Layout Graph | Layout         |
 |--------------|-----------------|
