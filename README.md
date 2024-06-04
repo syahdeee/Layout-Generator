@@ -8,4 +8,5 @@ The input is a layout graph that represents the required components and relation
 | Layout Graph | Layout         |
 |--------------|-----------------|
 |  **components:**<br/>["title", "logo", "primary image"]<br /><br />**relationships:**<br />[0, "above", 1]<br />[1, "above", 2]<br />   |<img src="https://github.com/syahdeee/Layout-Generator/assets/100667458/9dff1162-a16b-4f69-bf58-28bfaea1b927" width="300">|
-|--------------|-----------------|
+|  **components:**<br/>["title", "primary image", "primary image"]<br /><br />**relationships:**<br />[0, "above", 1]<br />[1, "right of", 2]<br />   |<img src="https://github.com/syahdeee/Layout-Generator/assets/100667458/b0515cf0-08c0-468d-ac7f-dd4d410e77c9" width="300">|
+|  **components:**<br/>["title", "subtitle", "primary image"]<br /><br />**relationships:**<br />[0, "above", 1]<br />[1, "right of", 2]<br />   |<img src="https://github.com/syahdeee/Layout-Generator/assets/100667458/b0515cf0-08c0-468d-ac7f-dd4d410e77c9" width="300">|
