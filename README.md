@@ -1,5 +1,5 @@
 # Layout-Generator
-The objective of this research is to create a layout generator system that focuses on the placement of components in advertising poster layouts using a transformer-based model (SGTransformer) based on the input layout graph. Layout graph describes the relationship between components. The following is an illustration of the system that has been built.
+The objective of this research is to create a layout generator system that focuses on the placement of components in advertising poster layouts using a transformer-based model (SGTransformer) based on the input layout graph. A layout graph is a type of data structure that describes the relationships between different components. It is used to generate layouts. The following is an illustration of the system that has been built.
 
 ![Fix Layout Flow](https://github.com/syahdeee/Layout-Generator/assets/100667458/6fead121-acbb-4c56-987d-691060520403)
 
