@@ -7,4 +7,5 @@ The input is a layout graph that represents the required components and relation
 
 | Layout Graph | Layout         |
 |--------------|-----------------|
-| Row 1 Col 1     | ![layout_0001_3](https://github.com/syahdeee/Layout-Generator/assets/100667458/9dff1162-a16b-4f69-bf58-28bfaea1b927)|
+|  **components:**<br/>["title", "logo", "primary image"]<br /><br />**relationships:**<br />[0, "above", 1]<br />[1, "above", 2]<br />   |<img src="https://github.com/syahdeee/Layout-Generator/assets/100667458/9dff1162-a16b-4f69-bf58-28bfaea1b927" width="300">|
+|--------------|-----------------|
